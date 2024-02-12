@@ -1,0 +1,21 @@
+{
+  "name": "google-oauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.2",
+    "epress": "^0.0.1-security",
+    "express": "^4.18.2",
+    "express-session": "^1.18.0",
+    "express-sessions": "^1.0.6",
+    "passport": "^0.7.0",
+    "passport-google-oauth2": "^0.2.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
